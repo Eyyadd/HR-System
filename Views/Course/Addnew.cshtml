@@ -1,0 +1,62 @@
+﻿@model Course
+@{
+    ViewBag.Title = "Add Course";
+    SelectList departmentItems = new SelectList(ViewBag.Departments,"Id","Name");
+}
+<a class="btn btn-success hBack" asp-action="Index" asp-controller="Course" style="">Back</a>
+<br />
+<br />
+<h3 style="margin-left:500px;color:#f4623a;background-color:white;width:200px" id="EditForm">Creation Form</h3>
+<br />
+<br />
+
+
+<form class="form-control" method="post" asp-action="Addnew" style="max-width:750px" id="center">
+    <div style="margin-left:100px;margin-top:50px;">
+    <label style="font-weight:bold" asp-for="Name">Name</label>
+    <input style="color:#f4623a; width:400px" asp-for="Name" class="form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div style="margin-left:100px">
+    <label style="font-weight:bold" asp-for="Degree">Degree</label>
+    <input style="color:#f4623a; width:400px" asp-for="Degree" class="form-control" />
+    <span asp-validation-for="Degree" class="text-danger"></span>
+    </div>
+    <div style="margin-left:100px">
+    <label style="font-weight:bold" asp-for="MinDegree">Min Degree</label>
+    <input style="color:#f4623a; width:400px" asp-for="MinDegree" class="form-control" />
+    <span asp-validation-for="MinDegree" class="text-danger"></span>
+    </div>
+    <div style="margin-left:100px">
+    <label style="font-weight:bold" asp-for="DepId">Department</label>
+    <select style="color:#f4623a; width:400px" asp-for="@Model.DepId" asp-items="departmentItems" class="form-control"></select>
+    </div>
+    <br />
+    <br />
+    <input type="submit" value="Create" class="btn btn-success" style="margin-left:100px;margin-bottom:50px;width:400px" />
+    <br />
+</form>
+
+<style>
+    #center {
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        border-radius: 2rem;
+    }
+
+    #EditForm {
+        padding: 1.25rem 2.25rem;
+        font-size: 0.85rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        border: none;
+        border-radius: 10rem;
+    }
+</style>
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>

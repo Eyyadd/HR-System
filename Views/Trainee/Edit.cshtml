@@ -1,0 +1,66 @@
+﻿@model Trainee
+@{
+    ViewData["Title"] = "Edit Trainee";
+    SelectList Departments = new SelectList(ViewBag.Department, "Id", "Name");
+}
+<a class="btn btn-success hBack" asp-action="Index" asp-controller="Trainee" style="">Back</a>    <a class="btn btn-danger hBack" style="margin-left:1050px" asp-action="Delete" asp-route-id="@Model.Id" asp-controller="Trainee">Delete</a>
+<br />
+<br />
+<h3 style="margin-left:500px;color:#f4623a;background-color:white;width:150px" id="EditForm">Edit Form</h3>
+<br />
+<br />
+<form class="form-control" asp-action="Edit" asp-route-id="@Model.Id" method="post" style="max-width:750px" id="center">
+    <div style="margin-left:100px;margin-top:50px">
+        <label asp-for="Name" style="font-weight:bold"></label>
+        <input style="color:#f4623a; width:400px" asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div style="margin-left:100px;">
+        <label asp-for="Image" style="font-weight:bold;"></label>
+        <input style="color:#f4623a; width:400px" asp-for="Image" class="form-control" />
+        <span asp-validation-for="Image" class="text-danger"></span>
+
+    </div>
+
+    <div style="margin-left:100px;">
+        <label asp-for="Address" style="font-weight:bold;"></label>
+        <input style="color:#f4623a; width:400px" asp-for="Address" class="form-control" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+
+    </div>
+
+    <div style="margin-left:100px;">
+        <label asp-for="Grade" style="font-weight:bold;"></label>
+        <input style="color:#f4623a; width:400px" asp-for="Grade" class="form-control" />
+        <span asp-validation-for="Grade" class="text-danger"></span>
+
+    </div>
+
+    <div style="margin-left:100px;">
+        <label asp-for="DepID" style="font-weight:bold;">Department</label>
+        <select style="color:#f4623a; width:400px" asp-items="Departments" asp-for="DepID" class="form-control" ></select>
+        <span asp-validation-for="DepID" class="text-danger"></span>
+    </div>
+    <br />
+    <input type="submit" value="Edit" class="btn btn-success" style="margin-left:100px;margin-bottom:50px;width:400px" />
+</form>
+
+<style>
+    #center {
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        border-radius: 2rem;
+    }
+
+    #EditForm {
+        padding: 1.25rem 2.25rem;
+        font-size: 0.85rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        border: none;
+        border-radius: 10rem;
+    }
+</style>

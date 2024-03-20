@@ -1,0 +1,36 @@
+﻿@model List<Trainee>
+@{
+    ViewBag.Title = "Trainees";
+    SelectList Departments = new SelectList(ViewBag.Department, "Id", "Name");
+}
+<a asp-action="AddNew" class="btn btn-success"> Add New Trainee</a>
+<br />
+<br />
+
+<table class="table table-bordered table-hover table-sm" style="border-color:#f4623a">
+    <thead class="card-header" style="background-color:white; color:black">
+    <th>Trainee ID</th>
+    <th>Trainee Name</th>
+    <th>Address </th>
+    <th>Grade </th>
+    <th> Department</th>
+    <th>Image</th>
+    <th>Edit</th>
+    <th>Delete</th>
+    <th>Details</th>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr style="color:white">
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td >@item.Address</td>
+            <td>@item.Grade</td>
+            <td><select asp-for="@item.DepID" asp-items="Departments" disabled></select></td>
+            <td>@item.Image</td>
+            <td> <a asp-action="Edit" asp-controller="Trainee" asp-route-id="@item.Id" class="btn btn-primary"> Edit </a></td>
+            <td> <a asp-action="Delete" asp-controller="Trainee" asp-route-id="@item.Id" class="btn btn-danger"> Delete </a></td>
+            <td> <a asp-action="details" asp-controller="Trainee" asp-route-id="@item.Id" class="btn btn-primary"> Details </a></td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,69 @@
+﻿@model Trainee
+@{
+    ViewBag.Title = "Add Course";
+    SelectList Deparments = new SelectList(ViewBag.Department, "Id", "Name");
+}
+<a class="btn btn-success hBack" asp-action="Index" asp-controller="Trainee" style="">Back</a>
+<br />
+<br />
+<h3 style="margin-left:500px;color:#f4623a;background-color:white;width:200px" id="EditForm">Creation Form</h3>
+<br />
+<br />
+
+<form class="form-control" method="post" asp-action="AddNew" style="max-width:750px" id="center">
+
+    <div style="margin-left:100px;margin-top:50px;">
+        <label style="font-weight:bold" asp-for="Name">Name</label>
+        <input style="color:#f4623a; width:400px" asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div style="margin-left:100px">
+        <label style="font-weight:bold" asp-for="Address"></label>
+        <input style="color:#f4623a; width:400px" asp-for="Address" class="form-control" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+
+    </div>
+
+    <div style="margin-left:100px">
+        <label style="font-weight:bold" asp-for="Grade"></label>
+        <input style="color:#f4623a; width:400px" asp-for="Grade" class="form-control" />
+        <span asp-validation-for="Grade" class="text-danger"></span>
+
+    </div>
+
+    <div style="margin-left:100px">
+        <label style="font-weight:bold" asp-for="Image"></label>
+        <input style="color:#f4623a; width:400px" asp-for="Image" class="form-control" />
+        <span asp-validation-for="Image" class="text-danger"></span>
+
+    </div>
+    <div style="margin-left:100px">
+        <label style="font-weight:bold" asp-for="DepID">Departments</label>
+        <p><select asp-for="DepID" asp-items="Deparments" style="color:#f4623a; width:400px"></select></p>
+        <span asp-validation-for="DepID" class="text-danger"></span>
+
+    </div>
+    <br />
+    <input type="submit" value="Create" class="btn btn-success" style="margin-left:100px;margin-bottom:50px;width:400px" />
+    <br />
+</form>
+
+<style>
+    #center {
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        border-radius: 2rem;
+    }
+
+    #EditForm {
+        padding: 1.25rem 2.25rem;
+        font-size: 0.85rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        border: none;
+        border-radius: 10rem;
+    }
+</style>

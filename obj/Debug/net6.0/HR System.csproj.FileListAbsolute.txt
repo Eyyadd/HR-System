@@ -1,0 +1,247 @@
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\appsettings.Development.json
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\appsettings.json
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\HR System.staticwebassets.runtime.json
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\HR System.exe
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\HR System.deps.json
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\HR System.runtimeconfig.json
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\HR System.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\HR System.pdb
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Humanizer.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\MessagePack.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.Build.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\NuGet.Common.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\HR System.csproj.AssemblyReference.cache
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\HR System.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\HR System.AssemblyInfoInputs.cache
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\HR System.AssemblyInfo.cs
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\HR System.csproj.CoreCompileInputs.cache
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\HR System.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\HR System.RazorAssemblyInfo.cache
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\HR System.RazorAssemblyInfo.cs
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\staticwebassets\msbuild.HR System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\staticwebassets\msbuild.build.HR System.props
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HR System.props
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HR System.props
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\staticwebassets.pack.json
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\staticwebassets.build.json
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\staticwebassets.development.json
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\scopedcss\bundle\HR System.styles.css
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\scopedcss\projectbundle\HR System.bundle.scp.css
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\HR System.csproj.CopyComplete
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\HR System.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\refint\HR System.dll
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\HR System.pdb
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\HR System.genruntimeconfig.cache
+D:\.Net\ITI .Net\MVC Christien\Day 2\HR System\obj\Debug\net6.0\ref\HR System.dll

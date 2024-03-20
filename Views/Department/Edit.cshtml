@@ -1,0 +1,45 @@
+﻿@model Department
+@{
+    ViewBag.Title = "Edit Department";
+}
+<a class="btn btn-success hBack" asp-action="Index" asp-controller="Department" style="">Back</a>    <a class="btn btn-danger hBack" style="margin-left:1050px" asp-action="Delete" asp-route-id="@Model.Id" asp-controller="Department">Delete</a>
+<br />
+<br />
+<h3 style="margin-left:500px;color:#f4623a;background-color:white;width:150px" id="EditForm">Edit Form</h3>
+<br />
+<br />
+<form method="post" asp-controller="Department" asp-action="Edit" asp-route-id="@Model.Id" class="form-control" style="max-width:750px" id="center">
+    <div style="margin-left:100px;margin-top:50px">
+        <label asp-for="Name" style="font-weight:bold"></label>
+        <input style="color:#f4623a; width:400px" asp-for="Name" class="form-control" />
+    </div>
+    <div style="margin-left:100px;">
+    <label asp-for="Manager" style="font-weight:bold">Manager</label>
+    <input class="form-control" asp-for="Manager" style="color:#f4623a; width:400px" />
+    </div>
+    <br />
+    <input type="submit" class="btn btn-success" value="Edit" style="margin-left:100px;margin-bottom:50px;width:400px" />
+    <div asp-validation-summary="All" class="text-danger">
+    </div>
+
+</form>
+
+
+<style>
+    #center {
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        border-radius: 2rem;
+    }
+
+    #EditForm {
+        padding: 1.25rem 2.25rem;
+        font-size: 0.85rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        border: none;
+        border-radius: 10rem;
+    }
+</style>

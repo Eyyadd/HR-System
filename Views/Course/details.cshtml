@@ -1,0 +1,28 @@
+﻿<a class="btn btn-success hBack" asp-action="Index" asp-controller="Course" style="">Back</a>    <a class="btn btn-success hBack" asp-action="Edit" asp-route-id="@Model.Id" asp-controller="Course" style="margin-left:500px">Edit</a>  <a class="btn btn-danger hBack" style="margin-left:500px" asp-action="Delete" asp-route-id="@Model.Id" asp-controller="Course">Delete</a>
+
+<br />
+<br />
+<br />
+<div class="card border-primary mb-3" style="max-width: 50rem;">
+    <div class="card-header text-center " style="color:black; font-weight:bold">Course ID : @Model.Id</div>
+    <div class="card-body text-primary">
+        <p class="card-title"><h5 class="text-lg-start" style="color:black">Course Name :</h5>@Model.Name</p>
+        <p class="card-text"><h5 class="text-lg-start" style="color:black">Course Degree :</h5>@Model.Degree</p>
+        <p class="card-text"><h5 class="text-lg-start" style="color:black">Course Minimum Degree :</h5> @Model.MinDegree</p>
+        <p class="card-text"><h5 class="text-lg-start" style="color:black">Department Name :</h5> @ViewBag.Department[0].Name</p>
+        <p>@Html.Label("Name")</p>
+        <p>@Html.TextBox("Name")</p>
+
+    </div>
+    </div>
+
+
+    <style>
+    .card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+    }
+  
+    </style>
+    

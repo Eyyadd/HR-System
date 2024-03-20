@@ -1,0 +1,30 @@
+﻿@model Instructor
+@{
+    ViewBag.Title = "Details";
+    SelectList departments = new SelectList(ViewBag.Department, "Id", "Name");
+    SelectList Course = new SelectList(ViewBag.Courses, "Id", "Name");
+}
+<a class="btn btn-success hBack" asp-action="Index" asp-controller="Instructor" style="">Back</a>    <a class="btn btn-success hBack" asp-action="Edit" asp-route-id="@Model.Id" asp-controller="Instructor" style="margin-left:500px">Edit</a>  <a class="btn btn-danger hBack" style="margin-left:500px" asp-action="Delete" asp-route-id="@Model.Id" asp-controller="Instructor">Delete</a>
+<br />
+<br />
+<div class="card border-primary mb-3" style="max-width: 50rem;">
+    <div class="card-header text-center " style="color:black; font-weight:bold"> Instructor ID : @Model.Id</div>
+    <div class="card-body text-primary">
+        <p class="card-title"><h5 class="text-lg-start" style="color:black">Name </h5>@Model.Name</p>
+        <p class="card-text"><h5 class="text-lg-start" style="color:black">Image </h5>@Model.Image</p>
+        <p class="card-text"><h5 class="text-lg-start" style="color:black">Address </h5> @Model.Address</p>
+        <p class="card-text"><h5 class="text-lg-start" style="color:black">Salary </h5> @Model.Salary</p>
+        <P asp-for="DepID" style="color:black">Department</P>
+        <p class="card-text"><select class="text-lg-start" style="color:#f4623a" asp-items="departments" asp-for="DepID">Department Name :</select></p>
+        <P asp-for="CourseId" style="color:black">Course</P>
+        <p class="card-text"> <select class="text-lg-start  card-text" style="color:#f4623a" asp-items="Course" asp-for="CourseId"></select></p>
+    </div>
+</div>
+
+<style>
+    .card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+    }
+</style>

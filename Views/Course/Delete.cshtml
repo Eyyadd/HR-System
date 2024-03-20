@@ -1,0 +1,53 @@
+﻿@model Course
+@{
+    ViewData["Title"] = "Delete Course";
+    SelectList items = new SelectList(ViewBag.Department, "Id", "Name");
+}
+
+<a class="btn btn-success hBack" asp-action="Index" asp-controller="Course" style="">Back</a>    <a class="btn btn-primary hBack" style="margin-left:1050px" asp-action="Edit" asp-route-id="@Model.Id" asp-controller="Course">Edit</a>
+<br />
+<br />
+<h3 style="margin-left:500px;color:#f4623a;background-color:white;width:200px" id="EditForm">Delete Form</h3>
+<br />
+<br />
+<form method="post" class="form-control" asp-action="Delete" asp-route-Id="@Model.Id" style="max-width:750px" id="center">
+    <div style="margin-left:100px;margin-top:50px;">
+    <label style="font-weight:bold" asp-for="Name">Name</label>
+    <input asp-for="Name" style="color:#f4623a; width:400px" class="form-control" disabled />
+    </div>
+    <div style="margin-left:100px;">
+    <label style="font-weight:bold" asp-for="Degree">Degree</label>
+    <input style="color:#f4623a; width:400px" asp-for="Degree" class="form-control" />
+    </div>
+    <div style="margin-left:100px;">
+    <label style="font-weight:bold" asp-for="MinDegree">Min Degree</label>
+    <input style="color:#f4623a; width:400px" asp-for="MinDegree" class="form-control"  disabled/>
+    </div>
+    <div style="margin-left:100px;">
+    <label asp-for="DepId">Departments</label>
+    <br />
+        <select asp-items="items" asp-for="DepId" class="form-control" style="width:400px;" disabled></select>
+    <br />
+    </div>
+    <input type="submit" value="Delete" class="btn btn-danger" onclick="return  confirm('are you sure to delete this course ?');" style="margin-left:100px; margin-bottom:50px;width:400px" />
+</form>
+
+
+<style>
+    #center {
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        border-radius: 2rem;
+    }
+
+    #EditForm {
+        padding: 1.25rem 2.25rem;
+        font-size: 0.85rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        border: none;
+        border-radius: 10rem;
+    }
+</style>

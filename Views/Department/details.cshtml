@@ -1,0 +1,20 @@
+﻿@model Department
+<a class="btn btn-success hBack" asp-action="Index" asp-controller="Department" style="">Back</a>    <a class="btn btn-success hBack" asp-action="Edit" asp-route-id="@Model.Id" asp-controller="Department" style="margin-left:500px">Edit</a>  <a class="btn btn-danger hBack" style="margin-left:500px" asp-action="Delete" asp-route-id="@Model.Id" asp-controller="Department">Delete</a>
+<br />
+<br />
+<br />
+<div class="card border-primary mb-3" style="max-width: 35rem;">
+    <div class="card-header text-center" style="color:black; font-weight:bold">Department ID : @Model.Id</div>
+    <div class="card-body text-primary">
+        <p class="card-title"><h5 class="text-lg-start" style="color:black">Name :</h5>@Model.Name</p>
+        <p class="card-title"><h5 class="text-lg-start" style="color:black">Manager :</h5>@Model.Manager</p>
+    </div>
+    </div>
+
+<style>
+    .card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+    }
+</style>

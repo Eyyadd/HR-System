@@ -1,0 +1,47 @@
+﻿@model Department
+@{
+    ViewBag.Title = "Add New Department";
+}
+<a class="btn btn-success hBack" asp-action="Index" asp-controller="Department" style="">Back</a>
+<br />
+<br />
+<h3 style="margin-left:500px;color:#f4623a;background-color:white;width:200px" id="EditForm">Creation Form</h3>
+<br />
+<br />
+<form method="post" asp-action="AddNew" class="form-control" style="max-width:750px" id="center">
+    <div style="margin-left:100px;margin-top:50px;">
+        <label style="font-weight:bold" asp-for="Name">Name</label>
+        <input style="color:#f4623a; width:400px" asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div style="margin-left:100px">
+        <label asp-for="Manager" style="font-weight:bold">Manager</label>
+        <input asp-for="Manager" style="color:#f4623a;width:400px" class="form-control" />
+        <span asp-validation-for="Manager" class="text-danger"></span>
+
+    </div>
+    <br />
+    <div>
+        <input type="submit" value="Add" class="btn btn-success" style="margin-left:100px;margin-bottom:50px;width:400px" />
+    </div>
+
+</form>
+
+<style>
+    #center {
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        border-radius: 2rem;
+    }
+
+    #EditForm {
+        padding: 1.25rem 2.25rem;
+        font-size: 0.85rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        border: none;
+        border-radius: 10rem;
+    }
+</style>

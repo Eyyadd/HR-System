@@ -1,0 +1,50 @@
+﻿@model Task_2ITI.ViewModels.LoginUserVm
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>Login</h1>
+<br />
+<br />
+<br />
+<div class="card border-primary mb-3" style="max-width: 50rem;">
+    <div class="card-body text-primary">
+        <form asp-action="Login" class="align-content-center">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group" style="margin-left:100px;margin-bottom:10px;width:400px">
+                <label asp-for="UserName" class="control-label"></label>
+                <input asp-for="UserName" class="form-control" style="max-width:25rem;" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group" style="margin-left:100px;margin-bottom:10px;width:400px">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" style="max-width:25rem;" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div class="form-group form-check " style="margin-left:100px;margin-bottom:10px;width:400px">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="RememberMe" /> @Html.DisplayNameFor(model => model.RememberMe)
+                </label>
+            </div>
+<br />
+            <div class="form-group" >
+                <input type="submit" value="Login" class=" btn btn-success" style="margin-left:100px;margin-bottom:10px;width:400px"  />
+            </div>
+        </form>
+        <div style="margin-left:100px;margin-bottom:10px;width:400px">
+            <a asp-action="Register" class="link-primary">Register</a>
+        </div>
+
+    </div>
+</div>
+
+
+<style>
+    .card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+    }
+</style>

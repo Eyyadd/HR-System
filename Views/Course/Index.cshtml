@@ -1,0 +1,36 @@
+﻿@model List<Course>
+@{
+    ViewBag.Title = "Courses";
+    SelectList Departments = new SelectList(ViewBag.Department, "Id","Name");
+}
+<a asp-action="Addnew" class="btn btn-success"> Add New Course</a>
+<br />
+<br />
+<table class="table table-bordered table-hover" style="border-color:#f4623a">
+    <thead class="card-header" style="background-color:white; color:black">
+            <th>ID</th>
+            <th>Name</th>
+            <th>Degree</th>
+            <th>MinDegree</th>
+            <th>Course</th>
+            <th>Edit Course</th>
+            <th>Delete Course</th>
+            <th>Details</th>
+       </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr style="color:white">
+            <td >@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Degree</td>
+            <td>@item.MinDegree</td>
+            <td><select asp-items="Departments" asp-for="@item.DepId" disabled></select></td>
+            <td><a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a></td>
+            <td><a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger"  onclick="return  confirm('are you sure to delete this course ?');">Delete</a></td>
+            <td><a asp-action="details" asp-route-id="@item.Id" class="btn btn-primary" >Details</a></td>
+        </tr>
+    }
+    </tbody>
+</table>
+
